@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "node-native-zip": "^1.1.0",
     "nodemon": "^1.18.9",
     "office-to-pdf": "^4.0.0"
   }
